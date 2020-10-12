@@ -1,0 +1,6 @@
+asdf
+<<<<<<< HEAD
+123456
+=======
+luiz claudio
+>>>>>>> TASK-1
