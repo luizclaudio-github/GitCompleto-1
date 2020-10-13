@@ -2,9 +2,3 @@ asdf
 luiz claudio
 48
 28121971
-.
-2
-3
-
-git config --global mergetool.kdiff3.path "C:/Program Files/KDiff3/kdiff3.exe"
-
